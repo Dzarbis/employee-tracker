@@ -17,7 +17,7 @@ Simplified usage for tracking employees, departments, and roles.
 
 ## Installation
 Clone repo, use command line to install Inquirer, mysql, and FS.
-[Video](https://drive.google.com/file/d/1U3pMTVMmUscrAVSFgp-EA1xSUfZom5PG/preview)
+[Video](https://drive.google.com/file/d/1ZuM06VgXeTj4BlNElALO1UFXTpmon72R/view)
 
 ## Contributions
 n/a
